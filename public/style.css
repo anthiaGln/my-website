@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Fuggles', cursive;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    font-family: 'Fuggles', cursive;
+}
+
+.unordered-list{
+    display: inline-block;
+    text-align: left;
+    color: white;
+}
+
+img{
+        height: 300px;
+        width: 400px;
+}
+
+p{
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
